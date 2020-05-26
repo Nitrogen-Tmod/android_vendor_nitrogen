@@ -72,7 +72,8 @@ PRODUCT_PACKAGES += \
     Launcher3 \
     messaging \
     Stk \
-    Terminal
+    Terminal \
+    OmniStyle
 
 # Filesystems tools
 PRODUCT_PACKAGES += \
