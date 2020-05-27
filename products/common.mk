@@ -74,7 +74,8 @@ PRODUCT_PACKAGES += \
     Stk \
     Terminal \
     OmniStyle \
-    ThemePicker
+    ThemePicker \
+    WallpaperPicker2
 
 # Filesystems tools
 PRODUCT_PACKAGES += \
