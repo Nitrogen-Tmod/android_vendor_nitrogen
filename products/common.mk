@@ -73,7 +73,8 @@ PRODUCT_PACKAGES += \
     messaging \
     Stk \
     Terminal \
-    OmniStyle
+    OmniStyle \
+    ThemePicker
 
 # Filesystems tools
 PRODUCT_PACKAGES += \
